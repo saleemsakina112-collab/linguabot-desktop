@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Temporary audio file
+speech.mp3
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
+
+# IDE files
+.idea/
