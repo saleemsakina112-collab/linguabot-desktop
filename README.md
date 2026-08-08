@@ -86,7 +86,8 @@ linguabot_desktop/
 │   └── screenshots/
 │
 └── tests/
-##Running it
+
+## Running it
 Clone the repository and open the project folder.
 Create and activate a virtual environment:
 python -m venv .venv
@@ -113,5 +114,5 @@ While building LinguaBot, I worked with:
 - Git and GitHub
 This project started as a simple language-learning idea and gradually became a larger Python desktop application.
 
-##Author
+## Author
 Sakeena Saleem
