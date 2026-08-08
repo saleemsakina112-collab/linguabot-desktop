@@ -114,6 +114,17 @@ While building LinguaBot, I worked with:
 - Calling translation and text-to-speech services
 - Basic testing
 - Git and GitHub
+
+## Testing
+
+The project includes a few basic tests for the vocabulary functionality.
+
+To run them:
+
+```bash
+python -m pytest -v
+The tests check things such as adding a vocabulary word and preventing duplicate words.
+
 This project started as a simple language-learning idea and gradually became a larger Python desktop application.
 
 ## Author
