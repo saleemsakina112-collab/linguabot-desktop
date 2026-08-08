@@ -86,6 +86,8 @@ linguabot_desktop/
 │   └── screenshots/
 │
 └── tests/
+    ├── test_service.py
+    └── test_vocabulary.py
 
 ## Running it
 Clone the repository and open the project folder.
