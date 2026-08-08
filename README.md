@@ -100,15 +100,17 @@ pip install -r requirements.txt
 Then run:
 python app.py
 
-A few things I learned
+## A few things I learned
+
 While building LinguaBot, I worked with:
-CustomTkinter layouts and widgets
-Separating UI code from service code
-Saving and loading data with JSON
-Page navigation between different screens
-Calling translation and text-to-speech services
-Basic testing
-Git and GitHub
+
+- CustomTkinter layouts and widgets
+- Separating UI code from service code
+- Saving and loading data with JSON
+- Page navigation between different screens
+- Calling translation and text-to-speech services
+- Basic testing
+- Git and GitHub
 This project started as a simple language-learning idea and gradually became a larger Python desktop application.
 
 Author
